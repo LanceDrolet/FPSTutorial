@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "RYWGEslu2/lzs2d+6fo1wimAhd5gmcstmI6gTC87e7PH6ZITvZyWKyd9vvlNB9fOL3FIGnHlzOZ2ff/MjfmGgQ==",
+  "success": true,
+  "projectFilePath": "/home/lance/Projects/Code/Games/Godot/FPS/FPS.csproj",
+  "expectedPackageFiles": [
+    "/home/lance/.nuget/packages/microsoft.netframework.referenceassemblies/1.0.0/microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "/home/lance/.nuget/packages/microsoft.netframework.referenceassemblies.net472/1.0.0/microsoft.netframework.referenceassemblies.net472.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

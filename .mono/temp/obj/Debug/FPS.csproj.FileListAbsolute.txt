@@ -1,0 +1,8 @@
+/home/lance/Projects/Code/Games/Godot/FPS/.mono/temp/bin/Debug/FPS.dll
+/home/lance/Projects/Code/Games/Godot/FPS/.mono/temp/bin/Debug/FPS.pdb
+/home/lance/Projects/Code/Games/Godot/FPS/.mono/temp/obj/Debug/FPS.csprojAssemblyReference.cache
+/home/lance/Projects/Code/Games/Godot/FPS/.mono/temp/obj/Debug/FPS.AssemblyInfoInputs.cache
+/home/lance/Projects/Code/Games/Godot/FPS/.mono/temp/obj/Debug/FPS.AssemblyInfo.cs
+/home/lance/Projects/Code/Games/Godot/FPS/.mono/temp/obj/Debug/FPS.csproj.CoreCompileInputs.cache
+/home/lance/Projects/Code/Games/Godot/FPS/.mono/temp/obj/Debug/FPS.dll
+/home/lance/Projects/Code/Games/Godot/FPS/.mono/temp/obj/Debug/FPS.pdb
